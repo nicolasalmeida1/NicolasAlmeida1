@@ -1,6 +1,6 @@
 - 👋 Olá!! 
 
-- 🔭 Atualmente trabalho como Business Development Representative
+- 🔭 Back-End Developer 
 - 🌱 C# | JS | Ruby | HTML | CSS
 - 📫 email: ng.almeidaa@gmail.com
 - ⚡ Pseudostreamer nas horas vagas
