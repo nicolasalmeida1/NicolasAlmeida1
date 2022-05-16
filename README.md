@@ -1,7 +1,17 @@
-- 👋 Olá!! 
+<p align="center">
+  <img 
+    src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"
+    align="center" 
+    height="200" 
+    width="auto" 
+  >
+<p/>
 
-- 🔭 Back-End Developer 
-- 🌱 C# | JS | Ruby | HTML | CSS
+
+# 👋 Olá!!
+
+- Trabalho atualmente como Back-End Developer na Avanade
+- Estudando C# | Node.Js
 - 📫 email: ng.almeidaa@gmail.com
 - ⚡ Pseudostreamer nas horas vagas
 
